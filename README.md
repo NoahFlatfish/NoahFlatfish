@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header)
 
+<p align="center">
 ### Halo! Ich bin Noah 👋🏻 !
-
+</p>
 
 <p align="center">
-🌱 I’m currently learning and working with **<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>**, **<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>**
+🌱 I’m currently learning and working with <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
+</p>
+
+<p align="center">
 ⚡ Jiujitsu🥋, Work-out💪🏻, Lost-Ark 
+</p>
+
+<p align="center">
 🇩🇪 🇰🇷 🇬🇧
 </p>
 
