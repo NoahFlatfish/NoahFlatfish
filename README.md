@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Hallo, Ich bin Noah!  
-- 🌱 I’m currently learning **Flutter**, **Ruby**
-- ⚡ Jiujitsu, Work-out, Lost-Ark
+### Halo!, Ich bin Noah!  
+- 🌱 I’m currently learning and working **Flutter**, **Ruby**
+- ⚡ Jiujitsu🥋, Work-out💪🏻, Lost-Ark
 <br>
 
 <br>
