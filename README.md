@@ -6,7 +6,9 @@ Halo! Ich bin Noah 👋🏻 !
 
 <p align="center">
 🌱 I’m currently learning and working with <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Ruby on Rails-FF0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
+</p>
 
+<p align="center">
 preparing to study <img src="https://img.shields.io/badge/Go-02569B?style=flat-square&logo=Go&logoColor=white"/></a>,  <img src="https://img.shields.io/badge/Swift-FF7841?style=flat-square&logo=Swift&logoColor=white"/></a>,
 </p>
 
