@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header)
 
 <p align="center">
-Halo! Ich bin Noah 👋🏻 !
+Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </p>
 
 <p align="center">
