@@ -9,7 +9,8 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </p>
 
 <br>
-
+<br>
+<br>
 <br>
 
 
@@ -30,7 +31,8 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </p>
 
 <br>
-
+<br>
+<br>
 <br>
 
 
