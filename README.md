@@ -9,14 +9,7 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
-
-<p align="center">
-🌱preparing to study <img src="https://img.shields.io/badge/Go-02569B?style=flat-square&logo=Go&logoColor=white"/></a>,  <img src="https://img.shields.io/badge/Swift-FF7841?style=flat-square&logo=Swift&logoColor=white"/></a>,
-</p>
 
 
 <br>
