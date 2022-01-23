@@ -39,6 +39,6 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </td></tr></table>  
 <br>
 
-<br>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
