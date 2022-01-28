@@ -25,7 +25,6 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 
 <br>
 <br>
-<br>
 
 
 ## Github Stats  
