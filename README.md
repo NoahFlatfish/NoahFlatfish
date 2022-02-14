@@ -18,7 +18,7 @@ Jiujitsu🥋, Work-out💪🏻
 </p>
 
 <p align="center">
-🇩🇪 🇰🇷 🇬🇧
+
 </p>
 
 <br><br>
