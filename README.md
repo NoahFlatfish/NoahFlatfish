@@ -23,8 +23,6 @@ Jiujitsu🥋, Work-out💪🏻
 
 </p>
 
-<br><br>
-
 
 
 ## Github Stats  
