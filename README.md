@@ -11,8 +11,7 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 
 
 <br>
-<br>
-<br>
+
 
 
 <p align="center">
