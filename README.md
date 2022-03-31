@@ -14,8 +14,6 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 
 
 
-
-
 <p align="center">
 Jiujitsu🥋, Work-out💪🏻
 </p>
