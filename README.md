@@ -22,4 +22,5 @@ Jiujitsu🥋, Work-out💪🏻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark">
 </p>
 <br>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
