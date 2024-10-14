@@ -2,9 +2,11 @@
 <p align="center">
 Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 </p>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
-🌱 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Ruby on Rails-FF0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Ruby on Rails-FF0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
 </p>
+<h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
