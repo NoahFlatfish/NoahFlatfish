@@ -20,7 +20,6 @@ Halo! Ich bin Noah 👋🏻 ! Aus Korea!
 Jiujitsu🥋, Work-out💪🏻
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark">
 <a href="https://github.com/NoahFlatfish"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahFlatfish&layout=compact&theme=nord&hide_border=true" /></a> 
 </p>
 <br>
