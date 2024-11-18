@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">🧑‍💻 Tech Stack 🧑‍💻</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ruby on Rails-FF0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a> <img src="https://img.shields.io/badge/Rust-F24E1E?style=flat-square&logo=Rust&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ruby on Rails-FF0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a> <img src="https://img.shields.io/badge/Rust-FF6C37?style=flat-square&logo=Rust&logoColor=white"/></a>
 </p>
 <h3 align="center"> 🛠 Tools 🛠</h3>
 <p align="center">
